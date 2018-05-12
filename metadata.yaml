@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/59
     wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14947#The-works-of-John-Dryden-now-first-collected-in-eighteen-volumes.-Volume-16
 gutenberg_issued: '2005-02-07'
 gutenberg_type: Text
 identifiers:
