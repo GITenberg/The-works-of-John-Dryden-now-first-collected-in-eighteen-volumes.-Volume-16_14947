@@ -1,0 +1,40 @@
+_repo: The-works-of-John-Dryden-now-first-collected-in-eighteen-volumes.-Volume-16_14947
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dryden, John
+    birthdate: 1631
+    deathdate: 1700
+    gutenberg_agent_id: '807'
+    url: http://www.gutenberg.org/2009/agents/807
+    wikipedia: http://en.wikipedia.org/wiki/John_Dryden
+  editor:
+    agent_name: Scott, Walter
+    aliases:
+    - Malagrowther, Malachi
+    - Scott, Sir Walter
+    - Templeton, Laurence
+    - Cleishbotham, Jedediah
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: ''
+gutenberg_issued: '2005-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14947'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English literature'
+tableOfContents: The Life of St. Francis Xavier
+title: The Works of John Dryden, now first collected in eighteen volumes. Volume 16
+url: http://www.gutenberg.org/ebooks/14947
